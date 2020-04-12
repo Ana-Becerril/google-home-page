@@ -24,7 +24,7 @@ representation of the Google's Home Page <3
 
 
 ## Built With
-This project was made with HTML5, CSS3 and a lot of love :green_heart:
+* This project was made with HTML5, CSS3 and a lot of love :green_heart:
 
 
 ## Author
